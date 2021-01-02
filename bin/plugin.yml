@@ -1,0 +1,7 @@
+name: BackPacks
+version: 1.0.1
+author: DarkPhantom1337
+description: BackPacks
+main: ua.darkphantom1337.backpacks.Main
+commands:
+  zet:
